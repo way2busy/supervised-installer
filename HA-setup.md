@@ -409,7 +409,7 @@ Create data source using internal link to [Docker container](http://a0d7b954-inf
 
 Using [Google drive backup addon by Stephen Beechen](https://github.com/sabeechen/hassio-google-drive-backup). Add his github as repository in Home Assistant then install the addon like any other
 
-![Home Assistant Addons installed](images/HA-addons.png)
+![Home Assistant Addons installed](images/HA-Addons.png)
 
 ## 9. Tidying Up
 
